@@ -6,4 +6,4 @@ MAQUETA_BASICA_HTML_Y_CSS RESPONSIVA
 
 ### Captura de Pantalla en Diferentes Dispositivos:
 
-![](imagenes/miweb.png)
+![](imagen/miweb.png)
